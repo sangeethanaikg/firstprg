@@ -3,4 +3,6 @@ welcome to the hotel
 vada
 idli
 fish fry
+friedrice
+gobi
 thank you for visiting our hotel
